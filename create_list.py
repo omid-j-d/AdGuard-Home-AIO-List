@@ -230,23 +230,23 @@ URLS = [
         "https://blocklist.sefinek.net/generated/v1/adguard/scam/ShadowWhisperer/scam.fork.txt", # Testing 0.3
         "https://blocklist.sefinek.net/generated/v1/adguard/tracking-and-telemetry/ShadowWhisperer/tracking.fork.txt", # Testing 0.3
 
-        #"https://hosts.anudeep.me/mirror/adservers.txt"
+        "https://hosts.anudeep.me/mirror/adservers.txt"
         # LostAd [TOO BIG]
-        #"https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt",
+        "https://raw.githubusercontent.com/lennihein/LostAd/main/lostad_dns.txt",
         # ppfeufer / adguard-filter-list [TOO BIG]
-        #"https://raw.githubusercontent.com/ppfeufer/adguard-filter-list/master/blocklist",
+        "https://raw.githubusercontent.com/ppfeufer/adguard-filter-list/master/blocklist",
         # HaGeZi's Pro DNS Blocklist [TOO BIG]
-        #"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
         # HaGeZi's The World's Most Abused TLDs
-        #"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt",
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt",
         # HaGeZi's Gambling DNS Blocklist [TOO BIG]
-        #"https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt",
+        "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt",
         # Steven Black's List [INCLUDED ALREADY]
-        #"https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt",
+        "https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt",
         # OISD Blockist Big
-        #"https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
+        "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
         # AdGuard Simplified Domain Names filter
-        #"https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
+        "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
         ]
 
 UTC_DT = datetime.now(timezone.utc) # UTC time
